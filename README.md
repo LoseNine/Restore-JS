@@ -1,6 +1,7 @@
 # 《JS安全防护与逆向分析手册》
 
->PS：by : [@LoseNine](https://github.com/LoseNine) <br/>
+### 教程更新账户  ：
+>PS：by : [@No-Attack](https://github.com/No-Attack) <br/>
 
 ## changelog：
 
