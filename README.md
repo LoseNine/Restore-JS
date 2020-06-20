@@ -1,4 +1,4 @@
-# 《JS逆向权威手册》
+# 《JS安全防护与逆向分析手册》
 
 >PS：by : [@LoseNine](https://github.com/LoseNine) <br/>
 
