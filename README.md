@@ -1,7 +1,7 @@
 # 《反爬虫JS安全防护与逆向分析手册》
 
 ### 教程更新账户  ：
->PS：by : [@No-Attack](https://github.com/No-Attack) <br/>
+>PS：by : [@LoseNine](https://github.com/LoseNine)  [@No-Attack](https://github.com/No-Attack) <br/>
 
 ## changelog：
 
