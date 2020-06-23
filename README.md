@@ -25,9 +25,9 @@
 ### 1.5 [JSHook对象属性](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.5JS%20Hook%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7.md)
 
 ## [第2章. Chrome拓展开发]
-### 2.1 Chrome拓展开发之manifest.json
-### 2.2 Chrome拓展开发之JS自动注入Hook
-### 2.3 Chrome拓展开发之去广告插件
+### 2.1 [Chrome拓展开发之manifest.json](https://github.com/LoseNine/Restore-JS/blob/master/2.Chrome%E6%8B%93%E5%B1%95%E5%BC%80%E5%8F%91/2.1Chrome%E6%8B%93%E5%B1%95%E5%BC%80%E5%8F%91%E4%B9%8Bmanifest.json.md)
+### 2.2 [Chrome拓展开发之JS自动注入Hook](https://github.com/LoseNine/Restore-JS/blob/master/2.Chrome%E6%8B%93%E5%B1%95%E5%BC%80%E5%8F%91/2.2Chrome%E6%8B%93%E5%B1%95%E5%BC%80%E5%8F%91%E4%B9%8B%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%85%A5Hook.md)
+### 2.3 [Chrome拓展开发之去广告插件](https://github.com/LoseNine/Restore-JS/blob/master/2.Chrome%E6%8B%93%E5%B1%95%E5%BC%80%E5%8F%91/2.3Chrome%E6%8B%93%E5%B1%95%E5%BC%80%E5%8F%91%E4%B9%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.md)
 
 ## [第3章. JS算法调试实战]
 ### 3.1 条件断点
