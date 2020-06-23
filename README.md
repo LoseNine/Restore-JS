@@ -17,7 +17,7 @@
 
 ## [第1章. Chrome基础]
 ### 1.1 [Chrome开发者工具骚操作](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.1Chrome%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%E9%AA%9A%E6%93%8D%E4%BD%9C.md)
-### 1.2 [Chorme调试技巧（某易滑块）](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.2Chrome%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7%EF%BC%88%E6%9F%90%E6%98%93%E6%BB%91%E5%9D%97%EF%BC%89.md)
+### 1.2 [Chorme调试技巧（易盾滑块轨迹调试）](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.2Chrome%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7%EF%BC%88%E6%9F%90%E6%98%93%E6%BB%91%E5%9D%97%EF%BC%89.md)
 ### 1.3 JSHook原理和作用
 ### 1.4 JSHook过反调试
 ### 1.5 JSHook对象属性
