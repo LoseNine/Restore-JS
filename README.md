@@ -28,8 +28,6 @@
 ### 2.1 Chrome拓展开发之manifest.json
 ### 2.2 Chrome拓展开发之JS自动注入Hook
 ### 2.3 Chrome拓展开发之去广告插件
-### 2.4 Chrome拓展开发之填表登录
-### 2.5 Chrome拓展开发之发送HTTP请求
 
 ## [第3章. JS算法调试实战]
 ### 3.1 条件断点
