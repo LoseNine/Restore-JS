@@ -11,6 +11,8 @@
 |2020-06-22|1.1 Chrome开发者工具骚操作  终于开始动手了|
 |2020-06-22|1.2 Chrome调试技巧和网易易盾的滑块验证码轨迹调试|
 |2020-06-22|1.3 JS Hook原理与作用|
+|2020-06-22|1.4 JS Hook过反调试|
+|2020-06-22|1.5 JS Hook对象属性|
 
 ## 前言
 ### [一、前言]
@@ -18,9 +20,9 @@
 ## [第1章. Chrome基础]
 ### 1.1 [Chrome开发者工具骚操作](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.1Chrome%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%E9%AA%9A%E6%93%8D%E4%BD%9C.md)
 ### 1.2 [Chorme调试技巧（易盾滑块轨迹调试）](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.2Chrome%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7%EF%BC%88%E6%9F%90%E6%98%93%E6%BB%91%E5%9D%97%EF%BC%89.md)
-### 1.3 JSHook原理和作用
-### 1.4 JSHook过反调试
-### 1.5 JSHook对象属性
+### 1.3 [JSHook原理和作用](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.3JS%20Hook%E5%8E%9F%E7%90%86%E4%B8%8E%E4%BD%9C%E7%94%A8.md)
+### 1.4 [JSHook过反调试](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.4JS%20Hook%E8%BF%87%E5%8F%8D%E8%B0%83%E8%AF%95.md)
+### 1.5 [JSHook对象属性](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.5JS%20Hook%E5%AF%B9%E8%B1%A1%E5%B1%9E%E6%80%A7.md)
 
 ## [第2章. Chrome拓展开发]
 ### 2.1 Chrome拓展开发之manifest.json
