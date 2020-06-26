@@ -1,4 +1,4 @@
-# 《反爬虫JS安全防护与逆向分析手册》
+# 《反爬虫JS破解与混淆还原手册》
 
 ### 教程更新账户  ：
 >PS：by : [@LoseNine](https://github.com/LoseNine)  [@No-Attack](https://github.com/No-Attack) <br/>
