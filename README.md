@@ -3,6 +3,10 @@
 ### 教程更新账户  ：
 >PS：by : [@LoseNine](https://github.com/LoseNine)  [@No-Attack](https://github.com/No-Attack) <br/>
 
+### 发布JS破解，App协议分析，Xposed和Frida教程
+![](https://mmbiz.qpic.cn/mmbiz_jpg/PAFHVZCvStuRWU5jDNFTPzxURY7dXaDpzwlb3YW6hW6KgjtbVgicfwKtoqaoNSGBIfYoZeqic1NkJtibU1Cs9WVBQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
 ## changelog：
 
 |date|log|
