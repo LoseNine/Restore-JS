@@ -1,5 +1,10 @@
 # 《反爬虫JS破解与混淆还原手册》
 
+# 好消息，本教程已经写成书《反爬虫AST原理与还原混淆实战》，淘宝，京东等全网有售，对本内容感兴趣的同学可以购买纸质书籍。
+当当自营：http://product.dangdang.com/29290985.html
+
+
+
 ### 教程更新账户  ：
 >PS：by : [@LoseNine](https://github.com/LoseNine)  [@No-Attack](https://github.com/No-Attack) <br/>
 
