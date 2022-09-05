@@ -18,6 +18,7 @@
 
 ## 前言
 ### [一、前言]
+以下目录为小肩膀教育录制的课程目录，非书籍目录。
 
 ## [第1章. Chrome基础]
 ### 1.1 [Chrome开发者工具骚操作](https://github.com/LoseNine/Restore-JS/blob/master/1.Chrome%E5%9F%BA%E7%A1%80/1.1Chrome%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%E9%AA%9A%E6%93%8D%E4%BD%9C.md)
