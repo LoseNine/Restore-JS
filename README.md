@@ -1,6 +1,7 @@
 # 《反爬虫JS破解与混淆还原实战》
 
-当当自营：http://product.dangdang.com/29290985.html
+书籍出版，淘宝，当当，京东全网有售。
+另有《Android应用安全实战》一书，讲解Frida框架。
 
 
 ### 发布JS破解，App协议分析，Xposed和Frida教程
